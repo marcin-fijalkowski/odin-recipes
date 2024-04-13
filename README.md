@@ -1,0 +1,1 @@
+In this project I will create a basic website with a couple of cooking recipes using HTML. Its purpose is to hone my HTML skills.
